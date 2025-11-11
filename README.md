@@ -1,2 +1,2 @@
 # cyber-journal
-The Documentation of my Cyber Security journey l. 
+The Documentation of my Cyber Security journey. 
